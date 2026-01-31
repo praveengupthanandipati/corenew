@@ -116,13 +116,13 @@
               <!-- image-layer start -->
               <div class="main-slider__one-item__shape-1">
                 <img
-                  src="assets/images/backgrounds/slider-1-shape-1.jpg"
+                  src="assets/images/backgrounds/slider-2-shape-1.jpg"
                   alt=""
                 />
               </div>
               <div class="main-slider__one-item__shape-2">
                 <img
-                  src="assets/images/backgrounds/slider-1-shape-2.jpg"
+                  src="assets/images/backgrounds/slider-2-shape-2.jpg"
                   alt=""
                 />
               </div>
@@ -132,9 +132,64 @@
                   <div class="col-xl-8">
                     <div class="main-slider__one-item__content">
                       <h2>
-                        More then<br />
-                        just a design<br />
-                        agency
+                        Your Strategic<br />
+                        Digital Partner<br />                       
+                      </h2>
+                      <a
+                        href="about.html"
+                        class="main-slider__one-item__content-curved-circle-box"
+                      >
+                        <div class="curved-circle">
+                          <!-- curved-circle start-->
+                          <span class="curved-circle--item">
+                            Discover&emsp;&emsp;more&emsp;&emsp;agency
+                          </span>
+                        </div>
+                        <!-- curved-circle end-->
+                        <div class="main-slider__one-item__content-arrow-down">
+                          <span class="icon-down-right"></span>
+                        </div>
+                        <!-- curved-circle icon -->
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- slider item end -->
+             <div class="item">
+            <!-- slider item start -->
+            <div class="main-slider__one-item">
+              <!-- bg image start -->
+              <div
+                class="main-slider__one-bg"
+                style="
+                  background-image: url(assets/images/backgrounds/slider-1-bg-1.png);
+                "
+              ></div>
+              <!-- bg image end -->
+              <!-- image-layer start -->
+              <div class="main-slider__one-item__shape-1">
+                <img
+                  src="assets/images/backgrounds/slider-3-shape-1.jpg"
+                  alt=""
+                />
+              </div>
+              <div class="main-slider__one-item__shape-2">
+                <img
+                  src="assets/images/backgrounds/slider-3-shape-2.jpg"
+                  alt=""
+                />
+              </div>
+              <!-- image-layer end -->
+              <div class="container">
+                <div class="row">
+                  <div class="col-xl-8">
+                    <div class="main-slider__one-item__content">
+                      <h2>
+                        Building Digital<br />
+                        Legacies <br /> Together
                       </h2>
                       <a
                         href="about.html"
@@ -176,7 +231,7 @@
         <!-- social end -->
         <!-- phone start -->
         <div class="main-slider__phone">
-          <a href="tel:+926668880000">+92 666 888 0000</a>
+          <a href="tel:+926668880000">+91 77 9997 1112</a>
         </div>
         <!-- phone end -->
       </section>
